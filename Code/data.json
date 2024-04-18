@@ -1,0 +1,74 @@
+[
+    {
+        "Disc": "None",
+        "Title": "Van lives here",
+        "Cords": [37.748487, -122.413775],
+        "Text": "Rough approximation",
+        "Link": "https://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)#Characters",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Marcus lives here",
+        "Cords": [37.752161, -122.398539],
+        "Text": "Rough approximation",
+        "Link": "https://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)#Characters",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Auge lives here",
+        "Cords": [37.777191, -122.428133],
+        "Text": "Rough approximation",
+        "Link": "https://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)#Characters",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Jolu lives here",
+        "Cords": [37.746537, -122.433761],
+        "Text": "Rough approximation",
+        "Link": "https://en.wikipedia.org/wiki/Little_Brother_(Doctorow_novel)#Characters",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Potrero Hill",
+        "Cords": [37.759972, -122.398404],
+        "Text": "Family-friendly Potrero Hill is an often-sunny, hilly area with bay and skyline views and a mix of condos and classic Victorians, plus parks with sports facilities. 18th Street has quaint eateries and shops. Nearby are gritty music spots and the historic Anchor Brewing Company, which offers tours. On the neighborhood's eastern edge, industrial-cool Dogpatch, with hip bars and eateries, runs along the waterfront.",
+        "Link": "https://en.wikipedia.org/wiki/Potrero_Hill",
+        "Image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGk9fI46IF7xox-O4EMPzNdpmKLp12LK1rxI-bWfXSEmM-V_s61oFomr6FkUiTPibuZMa16duqMkIU7J8SW-tV7Yl7vkE8TIvgb8Ru9JO44f9RhJBlnqUYNyACPWRpXqbqOPutMoBm3xDSiKzrHyrtkysAL7xtLcZsR_g42j2IOLxCucy9TW1NESg=w408-h272-k-no"
+    },
+    {
+        "Disc": "None",
+        "Title": "Hayes Valley",
+        "Cords": [37.776495, -122.426282],
+        "Text": "Hayes Valley is a cool, revitalized neighborhood in the Western Addition. The main commercial stretch, Hayes Street, teems with upscale boutiques for designer fashions and home decor, plus dessert shops, chill watering holes and a wide array of on-trend restaurants. The close-knit neighborhood features a community garden, a pocket park with art installations, and access to music and theater near the Civic Center.",
+        "Link": "https://en.wikipedia.org/wiki/Hayes_Valley,_San_Francisco",
+        "Image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE9bni_VwSUbnC_mh9WxpvqemlabgGl26z-wCTlwuTIv_EvOCo2gEN_y8BF3f6DvK665pQvNOzshwlqgdlQRtrTfTjOL-5TWGevaNeYTnUSEqqAPLZf7ed00fPmOO6ZRvF0GQatgVIOBZPA-BdPiufvimbf9yEBbYXAGUUTb4XNdHn2GZ74BbiFTw=w408-h272-k-no"
+    },
+    {
+        "Disc": "None",
+        "Title": "Noe Valley",
+        "Cords": [37.749879, -122.431744],
+        "Text": "Noe Valley is a quaint, in-demand place to live that’s geared toward young families. The neighborhood features tidy rows of Victorian and Edwardian homes, and thanks to surrounding hills, has some of the city’s sunniest weather. Stroller pushers and dog walkers jostle along 24th Street, which is stocked with bakeries, wine and cheese shops and relaxed cafes. A weekly farmers' market is held in the modest town square.",
+        "Link": "https://en.wikipedia.org/wiki/Noe_Valley,_San_Francisco",
+        "Image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH8pRBqiVC0dnODZJv60vEGfrqpgdsSBqSLSYocawb9grHF2JV8PHncTDu86WGky9qG48eNChH1zmLl5d91JdVPv-jw1BdxgEPXdQEaZsElKJ-Uhq-1Hx4hLSiowkGvUwdt4LENB5hKzTMLQrDl9HDOEJG6dXVHFhjzMB731tvNqPofAwjPg2fb=w408-h272-k-no"
+    },
+    {
+        "Disc": "None",
+        "Title": "Mission district",
+        "Cords": [37.757388, -122.414503],
+        "Text": "Named for the 1776-built Mission Dolores, the Mission District is an exuberant, evolving neighborhood with Latino roots and a hipster vibe. Old-school taquerias and eclectic live-music clubs mix with chef-driven eateries and craft cocktail lounges. There are also tattoo parlors, gourmet ice cream shops and Dolores Park, a popular weekend hangout with skyline views. Vibrant murals line streets such as Clarion Alley.",
+        "Link": "https://lh5.googleusercontent.com/p/AF1QipN8fTF63CBFA6Y46-9UGLqfIEhZgQn6dz3DuQiq=w408-h306-k-no",
+        "Image": "None"
+    },
+    {
+        "Disc": "None",
+        "Title": "Powell St. BART Station",
+        "Cords": [37.78427778, -122.40786111],
+        "Text": "Located at Powell and Market Streets, this station is centrally located near San Francisco's most popular attractions including the cable cars, Union Square, Yerba Buena Gardens, the Moscone Convention Center and the City's Theatre District.",
+        "Link": "https://www.bart.gov/stations/powl",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Outbound_S_Shuttle_train_at_Powell_station%2C_December_2017.jpg"
+    }
+]
